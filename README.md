@@ -86,4 +86,14 @@ Adam - Initial work - [CapuchaRojo]
 Acknowledgments
 Thanks to the Grok team for API access.
 Thanks to the Streamlit community for hosting solutions.
+
+
+### **Additional Notes:**
+
+- **Version Control:** Make sure all these steps and documentation are committed to your GitHub repository.
+- **Privacy:** Avoid including sensitive information like actual API keys in your public documentation. Mention that they are managed securely.
+- **Links:** Use Markdown to link to external resources or internal sections of your documentation for better navigation.
+- **Images:** If you have screenshots or diagrams, include them with Markdown image syntax for visual documentation.
+
+This documentation format not only outlines what you've done but also provides a clear path for others to understand, replicate, or contribute to your project. Committing this to your GitHub repo will showcase your progress and planning to judges or team members.
       
