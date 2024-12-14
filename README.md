@@ -46,4 +46,44 @@ Vision-Driven Workflow Automator is designed to transform human behavioral knowl
 1. **Clone the repository:**
    ```bash
    git clone git@github.com:CapuchaRojo/Vision-Driven-Workflow-Automator.git
-   
+
+2. Navigate to the project directory:
+   ```bash
+   cd Vision-Driven-Workflow-Automator
+
+3. Set up a virtual environment:
+   ```bash
+   python -m venv venv.\venv\Scripts\Activate.ps1  # On Windows
+
+4. Install dependancies:
+   ```bash
+    pip install -r requirements.txt
+
+5. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+
+
+Future Work
+Blockchain Integration: 
+Conceptualized how blockchain could ensure data integrity and transparency for workflow steps.
+Drafted a basic Solidity smart contract for proof-of-concept.
+Full Workflow Implementation: 
+Plan to integrate vision API with workflow generation, leveraging Grok capabilities.
+User Interface Enhancements: 
+Improve UI/UX based on feedback from the deployed version.
+
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+License
+[Undecided]
+
+Authors
+Adam - Initial work - [CapuchaRojo]
+
+Acknowledgments
+Thanks to the Grok team for API access.
+Thanks to the Streamlit community for hosting solutions.
+      
